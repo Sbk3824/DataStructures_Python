@@ -9,6 +9,7 @@ Created on Fri Mar 30 20:33:25 2018
 # Completed implementation of a stack ADT
 
 class Stack:
+
     def __init__(self):
         self.items = []
     def is_empty(self):

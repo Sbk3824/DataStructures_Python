@@ -1,12 +1,11 @@
 #!/usr/bin/env python2
 # -*- coding: utf-8 -*-
 """
-Created on Fri Mar 30 23:53:26 2018
+Created on Sat Mar 31 14:57:33 2018
 
 @author: sbk
 """
 
-# Completed implementation of a queue ADT
 class Queue:
     def __init__(self):
         self.items = []

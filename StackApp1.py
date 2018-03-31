@@ -9,7 +9,7 @@ Created on Fri Mar 30 21:07:38 2018
 import Stack 
 
 def par_checker(symbol_string):
-    s = Stack()
+    s = Stack.Stack()
     balanced = True
     index = 0
     while index < len(symbol_string) and balanced:
