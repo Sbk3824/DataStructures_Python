@@ -3,7 +3,7 @@ Problem Solving with Algorithms and Data Structures using Python
 
 ## Workflow
 
-1. Stanford cs161: Introduction to Data Structures and Algorithms using Python. Basic understanding of Data Structures [Class Slides]
+1. [Stanford cs161](https://github.com/Sbk3824/DataStructures_Python/tree/master/Stanford%20cs161): Introduction to Data Structures and Algorithms using Python. Basic understanding of Data Structures [Class Slides]
 
 2. [Data Structures and Algorithms](https://github.com/Sbk3824/DataStructures_Python/tree/master/dsa_GoodRich) by Michael. Goodrich, Roberto Tamassia , Michael H. Goldwasser. This book has good introduction to data structures and time complexities.
 
@@ -13,7 +13,7 @@ Problem Solving with Algorithms and Data Structures using Python
 
 5. [Leetcode](https://github.com/Sbk3824/DataStructures_Python/tree/master/LeetCode): Solution to Leetcode problems.
 
-6. [Python Doc](https://github.com/Sbk3824/DataStructures_Python/tree/master/py%20doc): Implemtation from offcial python documentation.
+6. [Python Doc](https://github.com/Sbk3824/DataStructures_Python/tree/master/python%20doc): Implemtation from offcial python documentation.
 
 
 
